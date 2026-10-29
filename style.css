@@ -1,0 +1,35 @@
+
+/* Style each Spanish color title */
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+/* Make all color titles normal weight */
+
+.color-title {
+    font-weight: normal;
+}
+
+/* Set all images to 200px × 200px */
+
+img {
+    height: 200px;
+    width: 200px;
+}
